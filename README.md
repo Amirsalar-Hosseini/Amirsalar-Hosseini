@@ -1,5 +1,22 @@
 # 💫 About Me:
- 👋 Hi, I'm a Junior Python Backend Developer!<br><br>🚀 Skilled in:<br>- Python, Django, FastAPI, REST framework<br>- Databases: PostgreSQL, SQL<br>- Technologies: Nginx, RabbitMQ, Docker, Redis, JWT<br>- Version Control: Git, GitHub<br><br>🌱 Projects I've worked on:<br>- 🛒 An e-commerce platform<br>- 📱 A social media app<br>- 🩺 An online doctor appointment system<br>- 🎬 A cinema ticket reservation platform<br><br>💡 Currently learning and contributing to open-source projects!<br><br>Let's connect and build something amazing together! 🚀
+### 👋 Hi, I'm a Junior Python Backend Developer!
+
+🚀 **Skilled in:**
+- Python, Django, FastAPI, REST framework
+- Databases: PostgreSQL, SQL
+- Technologies: Nginx, RabbitMQ, Docker, Redis, JWT
+- Version Control: Git, GitHub
+
+🌱 **Projects I've worked on:**
+- 🛒 An e-commerce platform
+- 📱 A social media app
+- 🩺 An online doctor appointment system
+- 🎬 A cinema ticket reservation platform
+
+💡 **Currently learning and contributing to open-source projects!**
+
+Let's connect and build something amazing together! 🚀
+
 
 
 ## 🌐 Socials:
