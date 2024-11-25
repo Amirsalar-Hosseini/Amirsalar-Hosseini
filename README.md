@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 Hi, I'm a Junior Python Backend Developer!
+### 👋 Hi, I'm a Python Backend Developer!
 
 🚀 **Skilled in:**
 - Python, Django, FastAPI, REST framework
