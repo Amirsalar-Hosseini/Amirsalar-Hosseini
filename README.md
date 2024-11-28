@@ -1,12 +1,6 @@
 # 💫 About Me:
 ### 👋 Hi, I'm a Python Backend Developer!
 
-🚀 **Skilled in:**
-- Python, Django, FastAPI, REST framework
-- Databases: PostgreSQL, SQL
-- Technologies: Nginx, RabbitMQ, Docker, Redis, JWT
-- Version Control: Git, GitHub
-
 🌱 **Projects I've worked on:**
 - 🛒 An e-commerce platform
 - 📱 A social media app
