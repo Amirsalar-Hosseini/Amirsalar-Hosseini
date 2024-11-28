@@ -1,8 +1,6 @@
 # 💫 About Me:
 ### 👋 Hi, I'm a Python Backend Developer!
 
-Let's connect and build something amazing together! 🚀
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amirsalar_hosseinii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirsalar-hosseini) 
 
@@ -17,6 +15,8 @@ Let's connect and build something amazing together! 🚀
 - 🎬 A cinema ticket reservation platform
 
 💡 **Currently learning and contributing to open-source projects!**
+
+Let's connect and build something amazing together! 🚀
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amirsalar-hosseini&icon=10&color=13)](https://visitcount.itsvg.in)
