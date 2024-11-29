@@ -2,7 +2,7 @@
 ### 👋 Hi, I'm a Python Backend Developer!
 
 ## 🌐 Socials:
-[![Telegram](![image](https://github.com/user-attachments/assets/b17cf0fb-f712-40f5-bc27-3dc957363b7e))]
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/amirsalar_hosseinii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirsalar-hosseini) 
 
 # 💻 Tech Stack:
