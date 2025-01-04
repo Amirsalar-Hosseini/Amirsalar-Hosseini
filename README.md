@@ -20,5 +20,4 @@
 Let's connect and build something amazing together! 🚀
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amirsalar-hosseini&icon=10&color=13)](https://visitcount.itsvg.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirsalar-hosseini&label=Profile%20views&color=0e75b6&style=flat" alt="amirsalar-hosseini" /> </p>
