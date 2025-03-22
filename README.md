@@ -1,5 +1,4 @@
-# 💫 About Me:
-### 👋 Hi, I'm a Python Backend Developer!
+### 👋 Hi, I'm a Backend Developer!
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/amirsalar_hosseinii)
